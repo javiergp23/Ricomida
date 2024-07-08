@@ -1,5 +1,6 @@
 $(document).ready(function () {
- 
+    
+    
     // 1. Seleccionar las etiquetas "img".
     $("img");
     // 2. Seleccionar los elementos con id="imagen".
